@@ -1,0 +1,18 @@
+body{
+    background-image: url(ai-generated-9112208_1280.png);
+}
+
+selector {
+    font-size: 10px;
+    color: black;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+h1{
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+}
